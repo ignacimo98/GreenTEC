@@ -11,3 +11,7 @@ INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('
 INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Titulacion', 'Ph.D.');
 INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Especialidad', 'Limpieza');
 INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Especialidad', 'Caninos');
+INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Entrada', '1');
+INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Entrada', '2');
+INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Entrada', '3');
+INSERT INTO GREEN_TEC.GREEN_TEC.CaracteristicaPersonal (Nombre, Valor) VALUES ('Entrada', '4');

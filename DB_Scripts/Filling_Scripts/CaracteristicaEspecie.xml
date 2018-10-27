@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <Nombre>Floracion</Nombre>
+  <Valor>True</Valor>
+</row>
+<row>
+  <Nombre>Floracion</Nombre>
+  <Valor>False</Valor>
+</row>
+<row>
+  <Nombre>Dieta</Nombre>
+  <Valor>Omnivoro</Valor>
+</row>
+<row>
+  <Nombre>Dieta</Nombre>
+  <Valor>Carnivoro</Valor>
+</row>
+<row>
+  <Nombre>Dieta</Nombre>
+  <Valor>Herbivoro</Valor>
+</row>
+<row>
+  <Nombre>Material</Nombre>
+  <Valor>Roca</Valor>
+</row>
+<row>
+  <Nombre>Material</Nombre>
+  <Valor>Cristal</Valor>
+</row>
+<row>
+  <Nombre>Comportamiento</Nombre>
+  <Valor>Pasivo</Valor>
+</row>
+<row>
+  <Nombre>Comportamiento</Nombre>
+  <Valor>Agresivo</Valor>
+</row>
+<row>
+  <Nombre>Comportamiento</Nombre>
+  <Valor>Timido</Valor>
+</row>
+</data>
