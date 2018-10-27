@@ -1,18 +1,21 @@
 USE GREEN_TEC;
 GO
 
+-- Obtiene una especie random
 CREATE PROCEDURE EspecieRandom AS
   SELECT TOP 1 IdEspecie
   FROM GREEN_TEC.Especie
   ORDER BY newid()
 GO ;
 
+-- Obtiene un visitante random
 CREATE PROCEDURE VisitanteRandom AS
   SELECT TOP 1 IdVisitante
   FROM GREEN_TEC.Visitante
   ORDER BY newid()
 GO ;
 
+-- Obtiene los vehiculos que pertenecen a empleados de un parque determinado
 CREATE PROCEDURE VehiculosDeParqueNacional
     @ParqueNacional INT
 AS
