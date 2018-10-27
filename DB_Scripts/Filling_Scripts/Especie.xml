@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <NombreVulgar>Fosforo</NombreVulgar>
+  <NombreCientifico>Sodanum</NombreCientifico>
+  <IdCaracteristica>7</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Calcio</NombreVulgar>
+  <NombreCientifico>Calcium</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Arsenico</NombreVulgar>
+  <NombreCientifico>Arsenicum</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Magnesio</NombreVulgar>
+  <NombreCientifico>Magnesium</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Hierro</NombreVulgar>
+  <NombreCientifico>Ferrum</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Azufre</NombreVulgar>
+  <NombreCientifico>Sulphuris</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Pumita</NombreVulgar>
+  <NombreCientifico>Pumita</NombreCientifico>
+  <IdCaracteristica>7</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Diatomita</NombreVulgar>
+  <NombreCientifico>Diatomita</NombreCientifico>
+  <IdCaracteristica>7</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cobre</NombreVulgar>
+  <NombreCientifico>Cuprum</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Bauxita</NombreVulgar>
+  <NombreCientifico>Bauxita</NombreCientifico>
+  <IdCaracteristica>7</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Oro</NombreVulgar>
+  <NombreCientifico>Aurum</NombreCientifico>
+  <IdCaracteristica>7</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Plata</NombreVulgar>
+  <NombreCientifico>Argentum</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Plomo</NombreVulgar>
+  <NombreCientifico>Plumbum</NombreCientifico>
+  <IdCaracteristica>6</IdCaracteristica>
+  <IdTipoEspecie>3</IdTipoEspecie>
+  <IdPeriodo>NULL</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia pittieri</NombreVulgar>
+  <NombreCientifico>Lockhartia pittieri </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia micrantha</NombreVulgar>
+  <NombreCientifico>Lockhartia micrantha </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia hercodonta</NombreVulgar>
+  <NombreCientifico>Lockhartia hercodonta </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia dipleura</NombreVulgar>
+  <NombreCientifico>Lockhartia dipleura  </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia chocoensis</NombreVulgar>
+  <NombreCientifico>Lockhartia chocoensis </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia amoena</NombreVulgar>
+  <NombreCientifico>Lockhartia amoena  </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lockhartia acuta</NombreVulgar>
+  <NombreCientifico>Lockhartia acuta </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes orbella</NombreVulgar>
+  <NombreCientifico>Lepanthes orbella </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes nymphalis</NombreVulgar>
+  <NombreCientifico>Lepanthes nymphalis </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes mystax</NombreVulgar>
+  <NombreCientifico>Lepanthes mystax </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes myiophora</NombreVulgar>
+  <NombreCientifico>Lepanthes myiophora </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes mulderae</NombreVulgar>
+  <NombreCientifico>Lepanthes mulderae  </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes monteverdensis</NombreVulgar>
+  <NombreCientifico>Lepanthes monteverdensis </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes comet-halleyi</NombreVulgar>
+  <NombreCientifico>Lepanthes comet-halleyi </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes collaris</NombreVulgar>
+  <NombreCientifico>Lepanthes collaris</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes coeloglossa</NombreVulgar>
+  <NombreCientifico>Lepanthes coeloglossa </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes clareae</NombreVulgar>
+  <NombreCientifico>Lepanthes clareae </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes ciliisepala</NombreVulgar>
+  <NombreCientifico>Lepanthes ciliisepala </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes chiriquensis</NombreVulgar>
+  <NombreCientifico>Lepanthes chiriquensis </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes chameleon</NombreVulgar>
+  <NombreCientifico>Lepanthes chameleon </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes circularis</NombreVulgar>
+  <NombreCientifico>Lepanthes circularis </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes cascajalensis</NombreVulgar>
+  <NombreCientifico>Lepanthes cascajalensis</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes candida</NombreVulgar>
+  <NombreCientifico>Lepanthes candida </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lepanthes caloptera</NombreVulgar>
+  <NombreCientifico>Lepanthes caloptera </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Sochilus amparoanus</NombreVulgar>
+  <NombreCientifico>Sochilus amparoanus </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Hybochilus leochilinus</NombreVulgar>
+  <NombreCientifico>Hybochilus leochilinus</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Hybochilus inconspicuus</NombreVulgar>
+  <NombreCientifico>Hybochilus inconspicuus </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Huntleya fasciata</NombreVulgar>
+  <NombreCientifico>Huntleya fasciata</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Huntleya burtii</NombreVulgar>
+  <NombreCientifico>Huntleya burtii </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Goodyera turialbae</NombreVulgar>
+  <NombreCientifico>Goodyera turialbae </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Goodyera striata</NombreVulgar>
+  <NombreCientifico>Goodyera striata  </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Goodyera ovatilabia</NombreVulgar>
+  <NombreCientifico>Goodyera ovatilabia </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Goodyera modesta</NombreVulgar>
+  <NombreCientifico>Goodyera modesta </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Goodyera micrantha</NombreVulgar>
+  <NombreCientifico>Goodyera micrantha </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Goodyera major</NombreVulgar>
+  <NombreCientifico>Goodyera major  </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum anoglossoides</NombreVulgar>
+  <NombreCientifico>Epidendrum anoglossoides </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum angustisegmentum</NombreVulgar>
+  <NombreCientifico>Epidendrum angustisegmentum </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum anceps</NombreVulgar>
+  <NombreCientifico>Epidendrum anceps </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum anastasioi</NombreVulgar>
+  <NombreCientifico>Epidendrum anastasioi </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum amparoanum</NombreVulgar>
+  <NombreCientifico>Epidendrum amparoanum </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum allochronum</NombreVulgar>
+  <NombreCientifico>Epidendrum allochronum</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Encyclia spondiada</NombreVulgar>
+  <NombreCientifico>Encyclia spondiada </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Encyclia alata</NombreVulgar>
+  <NombreCientifico>Encyclia alata </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Eltroplectris roseoalba</NombreVulgar>
+  <NombreCientifico>Eltroplectris roseoalba </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Dichaea tuerckheimii</NombreVulgar>
+  <NombreCientifico>Dichaea tuerckheimii </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cryptophoranthus dayana</NombreVulgar>
+  <NombreCientifico>Cryptophoranthus dayana </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cryptarrhena lunata</NombreVulgar>
+  <NombreCientifico>Cryptarrhena lunata </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cranichis muscosa</NombreVulgar>
+  <NombreCientifico>Cranichis muscosa</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cleistes costaricensis</NombreVulgar>
+  <NombreCientifico>Cleistes costaricensis </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Chuabardiella pacuarensis</NombreVulgar>
+  <NombreCientifico>Chuabardiella pacuarensis </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Brachionidium haberi</NombreVulgar>
+  <NombreCientifico>Brachionidium haberi </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Beloglottis bicaudata</NombreVulgar>
+  <NombreCientifico>Beloglottis bicaudata </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Caularthron bilamellatum</NombreVulgar>
+  <NombreCientifico>Caularthron bilamellatum </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cranichis lankesteri</NombreVulgar>
+  <NombreCientifico>Cranichis lankesteri</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cranichis talamancana</NombreVulgar>
+  <NombreCientifico>Cranichis talamancana </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cryptocentrum gracilipes</NombreVulgar>
+  <NombreCientifico>Cryptocentrum gracilipes  </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Dichaea neglecta</NombreVulgar>
+  <NombreCientifico>Dichaea neglecta </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Elleanthus graminifolius</NombreVulgar>
+  <NombreCientifico>Elleanthus graminifolius </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Encyclia trachycarpa</NombreVulgar>
+  <NombreCientifico>Encyclia trachycarpa </NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Epidendrum albertii</NombreVulgar>
+  <NombreCientifico>Epidendrum albertii </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guaria Morada</NombreVulgar>
+  <NombreCientifico>Cattleya skinneri </NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Ilan Ilan</NombreVulgar>
+  <NombreCientifico>Cananga odorata</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guachipelín</NombreVulgar>
+  <NombreCientifico>Diphysa americana</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Malinche</NombreVulgar>
+  <NombreCientifico>Delonix regia</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Llama del Bosque</NombreVulgar>
+  <NombreCientifico>Spathodea campanulata</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Roble Sabana</NombreVulgar>
+  <NombreCientifico>Tabebuia roseae</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cortés amarillo</NombreVulgar>
+  <NombreCientifico>Tabebuia ochracea</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Jacaranda</NombreVulgar>
+  <NombreCientifico>Jacaranda mimosifolia</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Poró</NombreVulgar>
+  <NombreCientifico>Erythrina poeppigiana</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Roble Sabana</NombreVulgar>
+  <NombreCientifico>Tabebuia rosea Bignoniaceae</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Higuerón</NombreVulgar>
+  <NombreCientifico>Ficus costaricana Moraceae</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guayabo</NombreVulgar>
+  <NombreCientifico>Psidium guajava Mirtaceae</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guarumo</NombreVulgar>
+  <NombreCientifico>Cecropiaceae</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guanacaste</NombreVulgar>
+  <NombreCientifico>Enterolobium cycloarpum Mimosaceae</NombreCientifico>
+  <IdCaracteristica>1</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cedro Amargo</NombreVulgar>
+  <NombreCientifico>Cedrela odorata Meliaceae</NombreCientifico>
+  <IdCaracteristica>2</IdCaracteristica>
+  <IdTipoEspecie>2</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Alacran</NombreVulgar>
+  <NombreCientifico>Scorpinorus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Escorpion</NombreVulgar>
+  <NombreCientifico>Amblypyge</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Tarantula</NombreVulgar>
+  <NombreCientifico>Vogelspis</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Araña</NombreVulgar>
+  <NombreCientifico>Araispinne</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cangrejo ermitaño</NombreVulgar>
+  <NombreCientifico>Hermitero Einsiedlus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cangreja</NombreVulgar>
+  <NombreCientifico>Landkrabbes</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Iguana</NombreVulgar>
+  <NombreCientifico>Leguan Adores</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Garrobo</NombreVulgar>
+  <NombreCientifico>Leguan Mirodances</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lagartija</NombreVulgar>
+  <NombreCientifico>Eidechse Monec</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Sapo</NombreVulgar>
+  <NombreCientifico>Grenouilleros</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lora</NombreVulgar>
+  <NombreCientifico>Rermochelys Mydas</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Baula</NombreVulgar>
+  <NombreCientifico>Dermochelys Baulor</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Carey</NombreVulgar>
+  <NombreCientifico>Eretmochelys imbricata</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Terciopelo</NombreVulgar>
+  <NombreCientifico>Perninolo Aquteros</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Culebra coral</NombreVulgar>
+  <NombreCientifico>Corailos</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cascabel</NombreVulgar>
+  <NombreCientifico>Sonnettres</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Matabuey</NombreVulgar>
+  <NombreCientifico>Grage chmeistus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Boa</NombreVulgar>
+  <NombreCientifico>Constrictorus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Comejíns</NombreVulgar>
+  <NombreCientifico>Termiterus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Zompopas</NombreVulgar>
+  <NombreCientifico>Fourmi derameisus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guerrero</NombreVulgar>
+  <NombreCientifico>Fourmi Légionnaires</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Hormiga</NombreVulgar>
+  <NombreCientifico>Fourmis Ameise</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Juanpalo</NombreVulgar>
+  <NombreCientifico>Phasmenus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Escarabajo</NombreVulgar>
+  <NombreCientifico>Scarabelos</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Oruga</NombreVulgar>
+  <NombreCientifico>Chenilles</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Celeste comun</NombreVulgar>
+  <NombreCientifico>Morphos bleu</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Oropéndola</NombreVulgar>
+  <NombreCientifico>Psarocolius montezuma</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Yigüirro</NombreVulgar>
+  <NombreCientifico>Turdus grayi</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Trepatroncos cabecirrayado</NombreVulgar>
+  <NombreCientifico>Lepidocolaptes souleyetii</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Tapaculo fretiplateado</NombreVulgar>
+  <NombreCientifico>Scytalopus argentifrons</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Batará mayor</NombreVulgar>
+  <NombreCientifico>Taraba major</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lapa roja</NombreVulgar>
+  <NombreCientifico>Ara macao</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Carancho norteño</NombreVulgar>
+  <NombreCientifico>Caracara cheriway</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Carpintero castaño</NombreVulgar>
+  <NombreCientifico>Celeus castaneus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Arasarí acollarado</NombreVulgar>
+  <NombreCientifico>Pteroglossus torquatus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Buco barbón</NombreVulgar>
+  <NombreCientifico>Malacoptila panamensis</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guardabarrancos</NombreVulgar>
+  <NombreCientifico>Eumomota superciliosa</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Quetzal</NombreVulgar>
+  <NombreCientifico>Pharomachrus mocinno</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Lechuza común</NombreVulgar>
+  <NombreCientifico>Tyto alba</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Busardo mixto</NombreVulgar>
+  <NombreCientifico>Parabuteo unicinctus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Milano cabecigrís</NombreVulgar>
+  <NombreCientifico>Leptodon cayanensis</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Elanio tijereta</NombreVulgar>
+  <NombreCientifico>Elanoides forficatus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Águila pescadora</NombreVulgar>
+  <NombreCientifico>Pandion haliaetus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Zopilote rey</NombreVulgar>
+  <NombreCientifico>Sarcoramphus papa</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Espátula rosada</NombreVulgar>
+  <NombreCientifico>Platalea ajaja</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Garceta nívea</NombreVulgar>
+  <NombreCientifico>Egretta thula</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Garza tigre</NombreVulgar>
+  <NombreCientifico>Tigrisoma mexicanum</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Anhinga americana</NombreVulgar>
+  <NombreCientifico>Anhinga anhinga </NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Piquero patiazul</NombreVulgar>
+  <NombreCientifico>Sula nebouxii</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Jabirú</NombreVulgar>
+  <NombreCientifico>Jabiru mycteria</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Paiño de Markham</NombreVulgar>
+  <NombreCientifico>Oceanodroma markhami</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Pardela mayor</NombreVulgar>
+  <NombreCientifico>Ardenna gravis</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Rabijunco etéreo</NombreVulgar>
+  <NombreCientifico>Phaethon aethereus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Charrán común</NombreVulgar>
+  <NombreCientifico>Sterna hirundo</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Gaviota de Franklin</NombreVulgar>
+  <NombreCientifico>Leucophaeus pipixcan</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Falaropo picofino</NombreVulgar>
+  <NombreCientifico>Phalaropus lobatus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Becasina</NombreVulgar>
+  <NombreCientifico>Gallinago delicata</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Aguja café</NombreVulgar>
+  <NombreCientifico>Limosa haemastica</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Jacana del norte</NombreVulgar>
+  <NombreCientifico>Jacana spinosa</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Alcaraván</NombreVulgar>
+  <NombreCientifico>Burhinus bistriatus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Chorlitejo culirrojo</NombreVulgar>
+  <NombreCientifico>Charadrius vociferus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Ostrero común americano</NombreVulgar>
+  <NombreCientifico>Haematopus palliatus </NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Rascón overo</NombreVulgar>
+  <NombreCientifico>Pardirallus maculatus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Carrao</NombreVulgar>
+  <NombreCientifico>Aramus guarauna</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Amazilia coliazul</NombreVulgar>
+  <NombreCientifico>Amazilia saucerrottei</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Esmeralda capirotada</NombreVulgar>
+  <NombreCientifico>Elvira cupreiceps</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Colibrí coroniblanco</NombreVulgar>
+  <NombreCientifico>Microchera albocoronata </NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Mango pechiverde</NombreVulgar>
+  <NombreCientifico>Anthracothorax prevostii</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Vencejo acollarado</NombreVulgar>
+  <NombreCientifico>Streptoprocne zonaris</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Nictibio urutaú</NombreVulgar>
+  <NombreCientifico>Nyctibius griseus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Chotacabras ocelado</NombreVulgar>
+  <NombreCientifico>Nyctiphrynus ocellatus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Cuclillo de manglar</NombreVulgar>
+  <NombreCientifico>Coccyzus minor</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Zenaida huilota</NombreVulgar>
+  <NombreCientifico>Zenaida macroura</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Paloma piquirroja</NombreVulgar>
+  <NombreCientifico>Patagioenas flavirostris</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Zampullín de pico grueso</NombreVulgar>
+  <NombreCientifico>Podilymbus podiceps</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Colín cariclaro</NombreVulgar>
+  <NombreCientifico>Dendrortyx leucophrys </NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Pavón norteño</NombreVulgar>
+  <NombreCientifico>Crax rubra</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Malvasía canela</NombreVulgar>
+  <NombreCientifico>Oxyura jamaicensis</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Suirirí bicolor</NombreVulgar>
+  <NombreCientifico>Dendrocygna bicolor</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Tinamú oliváceo</NombreVulgar>
+  <NombreCientifico>Tinamus major</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Tolomuco</NombreVulgar>
+  <NombreCientifico>Tayranus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>León breñero</NombreVulgar>
+  <NombreCientifico>Jaguaroundis</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Tigrillo</NombreVulgar>
+  <NombreCientifico>Tigerakus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Caucel</NombreVulgar>
+  <NombreCientifico>Margayes</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Manigordo</NombreVulgar>
+  <NombreCientifico>Ocelotus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Puma</NombreVulgar>
+  <NombreCientifico>Condolor</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Jaguar</NombreVulgar>
+  <NombreCientifico>Panthera onca</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Coyote</NombreVulgar>
+  <NombreCientifico>Canis latrans</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Zorro</NombreVulgar>
+  <NombreCientifico>Vulpes</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Zorro hediondo</NombreVulgar>
+  <NombreCientifico>Mephitidae</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Ardilla</NombreVulgar>
+  <NombreCientifico>Ecureuil</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Paca</NombreVulgar>
+  <NombreCientifico>Paka</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Guatusa</NombreVulgar>
+  <NombreCientifico>Agouti</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Puercoespino</NombreVulgar>
+  <NombreCientifico>Sphiggurus </NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Saino</NombreVulgar>
+  <NombreCientifico>Pekari</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>17</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Venado</NombreVulgar>
+  <NombreCientifico>Cerf</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Danta</NombreVulgar>
+  <NombreCientifico>Tapir</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Perezoso</NombreVulgar>
+  <NombreCientifico>Paresseux</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>15</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Armadillo</NombreVulgar>
+  <NombreCientifico>Tatou</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Nutria</NombreVulgar>
+  <NombreCientifico>Loutre</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>14</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Olingo</NombreVulgar>
+  <NombreCientifico>Olingus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Martilla</NombreVulgar>
+  <NombreCientifico>Kinkajou</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Pizote</NombreVulgar>
+  <NombreCientifico>Nasua narica</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Mapache</NombreVulgar>
+  <NombreCientifico>Procyon</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>10</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Hormiguero</NombreVulgar>
+  <NombreCientifico>Fourmillieros</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>9</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Mono araña</NombreVulgar>
+  <NombreCientifico>Singe raignemus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>16</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Mono Cariblanco</NombreVulgar>
+  <NombreCientifico>Sapajou capucinus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>11</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Mono congo</NombreVulgar>
+  <NombreCientifico>Sapajou Congus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>12</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Murciélago</NombreVulgar>
+  <NombreCientifico>Fledermaus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>13</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Leon</NombreVulgar>
+  <NombreCientifico>Leonus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>pato</NombreVulgar>
+  <NombreCientifico>Patitus</NombreCientifico>
+  <IdCaracteristica>3</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Raton</NombreVulgar>
+  <NombreCientifico>Ratunus Domesticus</NombreCientifico>
+  <IdCaracteristica>5</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Gato</NombreVulgar>
+  <NombreCientifico>Felinus Domesticus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+<row>
+  <NombreVulgar>Perro</NombreVulgar>
+  <NombreCientifico>Caninus Domesticus</NombreCientifico>
+  <IdCaracteristica>4</IdCaracteristica>
+  <IdTipoEspecie>1</IdTipoEspecie>
+  <IdPeriodo>8</IdPeriodo>
+</row>
+</data>

@@ -21,8 +21,8 @@ WAITFOR DELAY '00:00:15'
 ROLLBACK
  */
 --Dado que la transacion anterior bloquea la tabla, el INSERT va a esperar hasta que esta transaccion termine.
-INSERT INTO GREEN_TEC.Especie(NombreVulgar, NombreCientifico, IdCaracteristica, IdTipoEspecie, IdPeriodo)
-VALUES ('Conejo Silvestre','Oryctolagus cuniculus ',3,1,8)
+INSERT INTO GREEN_TEC.Especie (NombreVulgar, NombreCientifico, IdCaracteristica, IdTipoEspecie, IdPeriodo)
+VALUES ('Conejo Silvestre', 'Oryctolagus cuniculus ', 3, 1, 8)
 
 --**************** Ejemplo 2 ********************
 /*
@@ -33,5 +33,5 @@ WAITFOR DELAY '00:00:15'
 ROLLBACK
  */
 --Como la el id del insert no esta entre los datos accesados por la transaccion anterior esta no tiene delay
-INSERT INTO GREEN_TEC.Especie(NombreVulgar, NombreCientifico, IdCaracteristica, IdTipoEspecie, IdPeriodo)
-VALUES ('Conejo Amarillo','Oryctolagus cuniculus ',3,1,8)
+INSERT INTO GREEN_TEC.Especie (NombreVulgar, NombreCientifico, IdCaracteristica, IdTipoEspecie, IdPeriodo)
+VALUES ('Conejo Amarillo', 'Oryctolagus cuniculus ', 3, 1, 8)

@@ -74,7 +74,7 @@ CREATE TABLE Visitante (
   Domicilio   VARCHAR(100),
   Profesion   VARCHAR(25)
 )
-go
+GO
 
 CREATE TABLE Visita (
   IdVisita      INT IDENTITY PRIMARY KEY,
@@ -101,8 +101,8 @@ CREATE TABLE Excursion (
   IdVehiculo    INT
     CONSTRAINT Excursion_Vehiculo_IdVehiculo_fk
     REFERENCES Vehiculo,
-  DiaDeSemana   tinyint,
-  Hora          time
+  DiaDeSemana   TINYINT,
+  Hora          TIME
 )
 GO
 
@@ -112,7 +112,7 @@ CREATE TABLE Area (
     CONSTRAINT Area_ParqueNacional_IdParqueNacional_fk
     REFERENCES ParqueNacional,
   Nombre           VARCHAR(45),
-  Extension        float
+  Extension        FLOAT
 )
 GO
 
@@ -132,8 +132,8 @@ GO
 
 CREATE TABLE Periodo (
   IdPeriodo INT IDENTITY PRIMARY KEY,
-  MesInicio tinyint,
-  MesFinal  tinyint
+  MesInicio TINYINT,
+  MesFinal  TINYINT
 )
 GO
 

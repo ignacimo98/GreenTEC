@@ -24,7 +24,9 @@ BEGIN TRAN
 /*Debe retornar 'Lobo' sin delay ya que aunque la transaccion no haya hecho commit, esto por que no se bloquea
  la tabla y no se ha llegado a ejecutar el ROLLBACK*/
 SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
-SELECT NombreVulgar FROM GREEN_TEC.Especie WHERE IdEspecie = 4
+SELECT NombreVulgar
+FROM GREEN_TEC.Especie
+WHERE IdEspecie = 4
 
 
 

@@ -21,7 +21,9 @@ SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
   ROLLBACK
 */
 --El UPDATE se realiza pero hasta que la transaccion anterior finalice, esto por los bloqueos existentes
-UPDATE GREEN_TEC.Especie SET NombreVulgar='Lobo' WHERE IdEspecie=4
+UPDATE GREEN_TEC.Especie
+SET NombreVulgar = 'Lobo'
+WHERE IdEspecie = 4
 
 --**************** Ejemplo 2 ********************
 /*
@@ -33,9 +35,11 @@ SET TRANSACTION ISOLATION LEVEL REPEATABLE READ
 */
 /* El INSERT se ejecuta correctamente sin delay ya que el Repeatable read permite insertar nuevos datos pero no
 modificar existentes */
-INSERT INTO GREEN_TEC.Especie(NombreVulgar, NombreCientifico, IdCaracteristica, IdTipoEspecie, IdPeriodo)
-VALUES ('Conejo Colorado','Oryctolagus cuniculus',3,1,8)
+INSERT INTO GREEN_TEC.Especie (NombreVulgar, NombreCientifico, IdCaracteristica, IdTipoEspecie, IdPeriodo)
+VALUES ('Conejo Colorado', 'Oryctolagus cuniculus', 3, 1, 8)
 
 
 --Volver a perro
-UPDATE GREEN_TEC.Especie SET NombreVulgar='Perro' WHERE IdEspecie=4
+UPDATE GREEN_TEC.Especie
+SET NombreVulgar = 'Perro'
+WHERE IdEspecie = 4

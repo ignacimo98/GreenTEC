@@ -5,4 +5,5 @@ En las tablas en ciertos casos existen valores duplicados.
  */
 USE GREEN_TEC
 --Retorna toda los diferentes sueldos que tiene la tabla Personal sin repetir
-SELECT DISTINCT Sueldo FROM GREEN_TEC.Personal
+SELECT DISTINCT Sueldo
+FROM GREEN_TEC.Personal

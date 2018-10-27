@@ -22,7 +22,9 @@ BEGIN TRAN
 */
 --Debe retornar 'Lobo' sin embargo hasta despues del delay ya que la tabla se encuentra bloqueada
 SET TRANSACTION ISOLATION LEVEL READ COMMITTED
-  SELECT NombreVulgar FROM GREEN_TEC.Especie WHERE IdEspecie=4
+SELECT NombreVulgar
+FROM GREEN_TEC.Especie
+WHERE IdEspecie = 4
 
 --**************** Ejemplo 2 ********************
 /*
@@ -36,10 +38,13 @@ BEGIN TRAN
 /*Debe retornar la tabla SIN delay ya que al no haber un 'UPDATE' o 'DELETE' en la transaccion anterior la tabla no se
 bloquea */
 SET TRANSACTION ISOLATION LEVEL READ COMMITTED
-  SELECT * FROM GREEN_TEC.Especie
+SELECT *
+FROM GREEN_TEC.Especie
 
 
 --Vuelve a ser perro:
 BEGIN TRAN
-  UPDATE GREEN_TEC.Especie SET NombreVulgar='Perro' WHERE IdEspecie=4
-  COMMIT
+UPDATE GREEN_TEC.Especie
+SET NombreVulgar = 'Perro'
+WHERE IdEspecie = 4
+COMMIT
