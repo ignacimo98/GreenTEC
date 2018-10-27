@@ -5,7 +5,7 @@ import random
 import csv
 import sys
 import warnings
-warnings.filterwarnings("ignore", category=DeprecationWarning
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 import pymssql
 from faker import Faker
 from tqdm import trange, tqdm
